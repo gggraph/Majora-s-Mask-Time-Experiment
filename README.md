@@ -11,7 +11,7 @@ This game is known for the way it tell stories with its day and night cycle and 
 There is actually 3 core methods in the solution. You can choose one:
 
 * Syncing game time with **computer time**: day and night hours are synced with the real world. Is it playable? don't know.
-* Syncing game time with computer **battery time remaining**. 100% of battery is first day morning. Moon crash at 1% 
+* Syncing game time with computer **battery time remaining**. 100% of battery is first day morning. Moon crash at 1% (and yes... you can back in time if you charge your computer.)
 * Syncing game time with **CPU activity**. More your CPU is active, more time is consumed. Do not open too much softwares.
 
 ## How to make it work
