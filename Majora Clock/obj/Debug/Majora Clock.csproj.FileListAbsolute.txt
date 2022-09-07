@@ -1,0 +1,10 @@
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\bin\Debug\Majora Clock.exe.config
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\bin\Debug\Majora Clock.exe
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\bin\Debug\Majora Clock.pdb
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora Clock.csproj.AssemblyReference.cache
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora_Clock.Form1.resources
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora_Clock.Properties.Resources.resources
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora Clock.csproj.GenerateResource.cache
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora Clock.csproj.CoreCompileInputs.cache
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora Clock.exe
+C:\Users\gaelg\source\repos\Majora Clock\Majora Clock\obj\Debug\Majora Clock.pdb
