@@ -21,7 +21,7 @@ You will have to get a **rom of Majora's Mask** and run it with an emulator : th
 Follow those steps:
 * Copy the save file from this repository to the save folder of the emulator.
 * Run the game in your emulator.
-* Compile the project (or get the .exe in the build) and run it.
+* Compile the project (or get the .exe in the build folder) and run it.
 * Follow software instructions.
 * Have fun.
 
